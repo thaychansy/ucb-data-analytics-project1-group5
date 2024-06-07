@@ -1,4 +1,4 @@
-User ID,Subscription Type,Monthly Revenue,Join Date,Last Payment Date,Country,Age,Gender,Device,Plan Duration
+User ID,Subscription Type,Monthly Revenue,start_date,Last Payment Date,Country,Age,Gender,Device,Plan Duration
 1,Basic,10,15-01-22,10-06-23,United States,28,Male,Smartphone,1 Month
 2,Premium,15,05-09-21,22-06-23,Canada,35,Female,Tablet,1 Month
 3,Standard,12,28-02-23,27-06-23,United Kingdom,42,Male,Smart TV,1 Month
