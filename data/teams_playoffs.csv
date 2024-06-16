@@ -1,0 +1,111 @@
+Team,Week,PW_win_pct,Weekly_win_pct,Cum_win_pct,Round
+Boston Celtics,2024-01-07 00:00:00,1.0,0.667,0.8,nan
+Boston Celtics,2024-01-14 00:00:00,0.667,0.5,0.769,nan
+Boston Celtics,2024-01-21 00:00:00,0.5,0.75,0.767,nan
+Boston Celtics,2024-01-28 00:00:00,0.75,0.667,0.761,nan
+Boston Celtics,2024-02-04 00:00:00,0.667,0.75,0.76,nan
+Boston Celtics,2024-02-11 00:00:00,0.75,1.0,0.774,nan
+Boston Celtics,2024-02-18 00:00:00,1.0,1.0,0.782,nan
+Boston Celtics,2024-02-25 00:00:00,1.0,1.0,0.789,nan
+Boston Celtics,2024-03-03 00:00:00,1.0,1.0,0.8,nan
+Boston Celtics,2024-03-10 00:00:00,1.0,0.333,0.778,nan
+Boston Celtics,2024-03-17 00:00:00,0.333,1.0,0.791,nan
+Boston Celtics,2024-03-24 00:00:00,1.0,1.0,0.803,nan
+Boston Celtics,2024-03-31 00:00:00,1.0,0.333,0.784,nan
+Boston Celtics,2024-04-07 00:00:00,0.333,1.0,0.795,nan
+Boston Celtics,2024-04-14 00:00:00,1.0,0.5,0.78,nan
+Boston Celtics,2024-04-21 00:00:00,nan,nan,nan,1.0
+Boston Celtics,2024-04-28 00:00:00,nan,nan,nan,1.0
+Boston Celtics,2024-05-05 00:00:00,nan,nan,nan,1.0
+Boston Celtics,2024-05-12 00:00:00,nan,nan,nan,2.0
+Boston Celtics,2024-05-19 00:00:00,nan,nan,nan,2.0
+Boston Celtics,2024-05-26 00:00:00,nan,nan,nan,3.0
+Boston Celtics,2024-06-02 00:00:00,nan,nan,nan,3.0
+Boston Celtics,2024-06-09 00:00:00,nan,nan,nan,4.0
+Boston Celtics,2024-06-16 00:00:00,nan,nan,nan,4.0
+Dallas Mavericks,2024-01-07 00:00:00,0.5,0.75,0.595,nan
+Dallas Mavericks,2024-01-14 00:00:00,0.75,0.333,0.575,nan
+Dallas Mavericks,2024-01-21 00:00:00,0.333,0.5,0.571,nan
+Dallas Mavericks,2024-01-28 00:00:00,0.5,0.25,0.543,nan
+Dallas Mavericks,2024-02-04 00:00:00,0.25,0.333,0.531,nan
+Dallas Mavericks,2024-02-11 00:00:00,0.333,1.0,0.566,nan
+Dallas Mavericks,2024-02-18 00:00:00,1.0,1.0,0.582,nan
+Dallas Mavericks,2024-02-25 00:00:00,1.0,0.5,0.579,nan
+Dallas Mavericks,2024-03-03 00:00:00,0.5,0.25,0.557,nan
+Dallas Mavericks,2024-03-10 00:00:00,0.25,0.667,0.562,nan
+Dallas Mavericks,2024-03-17 00:00:00,0.667,0.75,0.574,nan
+Dallas Mavericks,2024-03-24 00:00:00,0.75,1.0,0.586,nan
+Dallas Mavericks,2024-03-31 00:00:00,1.0,1.0,0.608,nan
+Dallas Mavericks,2024-04-07 00:00:00,1.0,0.75,0.615,nan
+Dallas Mavericks,2024-04-14 00:00:00,0.75,0.5,0.61,nan
+Dallas Mavericks,2024-04-21 00:00:00,nan,nan,nan,1.0
+Dallas Mavericks,2024-04-28 00:00:00,nan,nan,nan,1.0
+Dallas Mavericks,2024-05-05 00:00:00,nan,nan,nan,1.0
+Dallas Mavericks,2024-05-12 00:00:00,nan,nan,nan,2.0
+Dallas Mavericks,2024-05-19 00:00:00,nan,nan,nan,2.0
+Dallas Mavericks,2024-05-26 00:00:00,nan,nan,nan,3.0
+Dallas Mavericks,2024-06-02 00:00:00,nan,nan,nan,3.0
+Dallas Mavericks,2024-06-09 00:00:00,nan,nan,nan,4.0
+Dallas Mavericks,2024-06-16 00:00:00,nan,nan,nan,4.0
+Denver Nuggets,2024-01-07 00:00:00,0.667,0.75,0.684,nan
+Denver Nuggets,2024-01-14 00:00:00,0.75,0.667,0.683,nan
+Denver Nuggets,2024-01-21 00:00:00,0.667,0.667,0.682,nan
+Denver Nuggets,2024-01-28 00:00:00,0.667,0.667,0.681,nan
+Denver Nuggets,2024-02-04 00:00:00,0.667,0.75,0.686,nan
+Denver Nuggets,2024-02-11 00:00:00,0.75,0.5,0.679,nan
+Denver Nuggets,2024-02-18 00:00:00,0.5,0.0,0.655,nan
+Denver Nuggets,2024-02-25 00:00:00,0.0,1.0,0.672,nan
+Denver Nuggets,2024-03-03 00:00:00,1.0,1.0,0.689,nan
+Denver Nuggets,2024-03-10 00:00:00,1.0,0.667,0.688,nan
+Denver Nuggets,2024-03-17 00:00:00,0.667,0.75,0.691,nan
+Denver Nuggets,2024-03-24 00:00:00,0.75,1.0,0.704,nan
+Denver Nuggets,2024-03-31 00:00:00,1.0,0.5,0.693,nan
+Denver Nuggets,2024-04-07 00:00:00,0.5,0.667,0.692,nan
+Denver Nuggets,2024-04-14 00:00:00,0.667,0.75,0.695,nan
+Denver Nuggets,2024-04-21 00:00:00,nan,nan,nan,1.0
+Denver Nuggets,2024-04-28 00:00:00,nan,nan,nan,1.0
+Denver Nuggets,2024-05-05 00:00:00,nan,nan,nan,1.0
+Denver Nuggets,2024-05-12 00:00:00,nan,nan,nan,2.0
+Denver Nuggets,2024-05-19 00:00:00,nan,nan,nan,2.0
+Minnesota Timberwolves,2024-01-07 00:00:00,0.667,0.25,0.714,nan
+Minnesota Timberwolves,2024-01-14 00:00:00,0.25,0.75,0.718,nan
+Minnesota Timberwolves,2024-01-21 00:00:00,0.75,0.667,0.714,nan
+Minnesota Timberwolves,2024-01-28 00:00:00,0.667,0.5,0.696,nan
+Minnesota Timberwolves,2024-02-04 00:00:00,0.5,0.75,0.7,nan
+Minnesota Timberwolves,2024-02-11 00:00:00,0.75,0.5,0.692,nan
+Minnesota Timberwolves,2024-02-18 00:00:00,0.5,1.0,0.709,nan
+Minnesota Timberwolves,2024-02-25 00:00:00,1.0,0.5,0.702,nan
+Minnesota Timberwolves,2024-03-03 00:00:00,0.5,0.5,0.689,nan
+Minnesota Timberwolves,2024-03-10 00:00:00,0.5,0.5,0.677,nan
+Minnesota Timberwolves,2024-03-17 00:00:00,0.5,1.0,0.687,nan
+Minnesota Timberwolves,2024-03-24 00:00:00,1.0,0.75,0.69,nan
+Minnesota Timberwolves,2024-03-31 00:00:00,0.75,0.667,0.689,nan
+Minnesota Timberwolves,2024-04-07 00:00:00,0.667,0.75,0.692,nan
+Minnesota Timberwolves,2024-04-14 00:00:00,0.75,0.5,0.683,nan
+Minnesota Timberwolves,2024-04-21 00:00:00,nan,nan,nan,1.0
+Minnesota Timberwolves,2024-04-28 00:00:00,nan,nan,nan,1.0
+Minnesota Timberwolves,2024-05-05 00:00:00,nan,nan,nan,1.0
+Minnesota Timberwolves,2024-05-12 00:00:00,nan,nan,nan,2.0
+Minnesota Timberwolves,2024-05-19 00:00:00,nan,nan,nan,2.0
+Minnesota Timberwolves,2024-05-26 00:00:00,nan,nan,nan,3.0
+Minnesota Timberwolves,2024-06-02 00:00:00,nan,nan,nan,3.0
+New York Knicks,2024-01-07 00:00:00,0.25,1.0,0.583,nan
+New York Knicks,2024-01-14 00:00:00,1.0,0.667,0.59,nan
+New York Knicks,2024-01-21 00:00:00,0.667,0.75,0.605,nan
+New York Knicks,2024-01-28 00:00:00,0.75,1.0,0.63,nan
+New York Knicks,2024-02-04 00:00:00,1.0,0.75,0.64,nan
+New York Knicks,2024-02-11 00:00:00,0.75,0.333,0.623,nan
+New York Knicks,2024-02-18 00:00:00,0.333,0.0,0.6,nan
+New York Knicks,2024-02-25 00:00:00,0.0,0.5,0.596,nan
+New York Knicks,2024-03-03 00:00:00,0.5,0.5,0.59,nan
+New York Knicks,2024-03-10 00:00:00,0.5,0.333,0.578,nan
+New York Knicks,2024-03-17 00:00:00,0.333,1.0,0.597,nan
+New York Knicks,2024-03-24 00:00:00,1.0,0.667,0.6,nan
+New York Knicks,2024-03-31 00:00:00,0.667,0.5,0.595,nan
+New York Knicks,2024-04-07 00:00:00,0.5,0.5,0.59,nan
+New York Knicks,2024-04-14 00:00:00,0.5,1.0,0.61,nan
+New York Knicks,2024-04-21 00:00:00,nan,nan,nan,1.0
+New York Knicks,2024-04-28 00:00:00,nan,nan,nan,1.0
+New York Knicks,2024-05-05 00:00:00,nan,nan,nan,1.0
+New York Knicks,2024-05-12 00:00:00,nan,nan,nan,2.0
+New York Knicks,2024-05-19 00:00:00,nan,nan,nan,2.0
