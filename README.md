@@ -1,6 +1,7 @@
 # ucb-data-analytics-project1-group5
 
-![alt text](image.png)
+<img width="260" alt="image" src="https://github.com/thaychansy/ucb-data-analytics-project1-group5/assets/161902555/f32948dc-74cf-46c8-aa4c-b7eaabb7970e">
+
 
 **#Title: Google Top 10 Big Query Search Terms**
 
