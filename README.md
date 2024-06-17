@@ -12,11 +12,11 @@
  > <b>CODE FILES (.ipynb) 
 1. exploratory_data_analysis_google.ipynb
  
-    Description - </b> This file 
+    Description - </b> This file contains code to perform initial cleaning of the Google search data, including an initial attempt to convert to Monthly results and prepare for merging with team-performance (W/L) data
 <b>
 2. google_bi_query_lt_lg.ipynb
  
-    Description - </b> This file 
+    Description - </b> This file ...
 <b>
 3.  import_weekly_records.ipynb
 
@@ -39,26 +39,43 @@
  
     Description - </b> This file contains the weekly search data, by DMA for the top-25 search terms in the United States on Google.com 
 <b>
-2. Google_Bigquery_Top_Search_Jan_Jun_2024.csv
+2. Google_Bigquery_Top_Search_Jan_Jun_2024_More_Columns.csv
  
     Description - </b> This file contains the weekly search data, by DMA for the top-25 search terms in the United States on Google.com 
 <b>
-3. searched_teams_results.csv
+3. Google_Bigquery_Top_Search_Long_Lat.csv
+ 
+    Description - </b> This file contains the weekly search data, by DMA for the top-25 search terms in the United States on Google.com, updated to include latitude and longitude values.
+<b>
+4. searched_teams_results.csv
  
     Description - </b> This file contains the regular-season Win/Loss records for the five teams NBA teams (Boston Celtics, Dallas Mavericks, Denver Nuggets, Minnesota Timberwolves, and New York Knicks) for which search terms appeared in the Jan - Jun (YTD) 2024 search data.
 <b>
-4.  team_weekly_stats.csv
+5.  team_weekly_stats.csv
 
     Description - </b> This file contains the output of import_weekly_records.ipynb, the weekly and season-to-date winning-percentage numbers, by week (ending Sunday), for the NBA teams in the Google search data
 <b>
-5.  NBA Playoff records.csv 
+6.  NBA Playoff records.csv 
 
     Description - </b> This file contains the date, teams, and results for every 2024 NBA playoff game through June, 2024 (incomplete results for NBA Finals between Boston and Dallas)
 <b>
-6.  teams_playoffs.csv 
+7.  teams_playoffs.csv 
 
     Description - </b> This file contains the merged playoff results and regular-season data to form a complete picture of 2024 NBA performance for the five teams searched in the Google data
+<b>
+8.  NBA 23-24 Records by Team, by Month - Merge Candidate.csv 
 
+    Description - </b> This file contains data sourced from basketball-reference.com with the monthly records for all 30 NBA teams initially.
+<b>
+9.  NBA 23-24 Records by Team, by Month - Merge Candidate.csv 
+
+    Description - </b> This file contains data sourced from basketball-reference.com with the monthly records for all 30 NBA teams initially.
+    <b>
+10. NBA 23-24 Records by Team, by Month - Merge Candidate.csv 
+
+    Description - </b> This file contains another version of the  monthly records for all 30 NBA teams (beg. Jan. 2024) sourced from basketball-reference.com with the.
+    
+    
 
 
 
