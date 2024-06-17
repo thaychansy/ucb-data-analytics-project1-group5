@@ -6,8 +6,6 @@
 - Krutika Desai
 - Scott Johnson
 - Thay Chansy</b>
-> Group Project Test
-
 # Project1 Repository Files
  > <b>CODE FILES (.ipynb) 
 1. exploratory_data_analysis_google.ipynb
