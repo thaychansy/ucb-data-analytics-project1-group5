@@ -1,4 +1,7 @@
-# <center>ucb-data-analytics-project1-group5</center>
+# UCB-DATA-ANALYTICS-PROJECT1-GROUP5
+
+<img width="260" alt="image" src="https://github.com/thaychansy/ucb-data-analytics-project1-group5/assets/161902555/f32948dc-74cf-46c8-aa4c-b7eaabb7970e">
+
 # Team Members
 
 - <b>Iosif Vardoev
@@ -73,16 +76,9 @@
 
     Description - </b> This file contains another version of the  monthly records for all 30 NBA teams (beg. Jan. 2024) sourced from basketball-reference.com with the.
     
-    
-=======
-# UCB-DATA-ANALYTICS-PROJECT1-GROUP5
-
-<img width="260" alt="image" src="https://github.com/thaychansy/ucb-data-analytics-project1-group5/assets/161902555/f32948dc-74cf-46c8-aa4c-b7eaabb7970e">
-
 
 **#Title: Google Top 10 Big Query Search Terms**
 
-Team members: Iosif V., Scott J., Thay C., Kayla V., Krutika D.
 
 The scope of this project was to identify a relationship between top 10 search terms in a popular search engine like google and explore any relevant trend to ongoing world events. The sample dataset <insert link> of 100K records in the Google Biquery Search Database. The date range for data points was narrowed to Jan2024 to May2024 for ease of exploration. Total of 6 search categories - Entertainment, Holidays, News, Public Figures, Sport and Technology were identified for the purpose of this exploratory data set.
 Aim of this exploratory analysis was to identify trends for below questions:
