@@ -5,7 +5,7 @@
 
 **#Title: Google Top 10 Big Query Search Terms**
 
-Team members: Iosif V., Scott J., Thay C., Krutika D.
+Team members: Iosif V., Scott J., Thay C., Kayla V., Krutika D.
 
 The scope of this project was to identify a relationship between top 10 search terms in a popular search engine like google and explore any relevant trend to ongoing world events. The sample dataset <insert link> of 100K records in the Google Biquery Search Database. The date range for data points was narrowed to Jan2024 to May2024 for ease of exploration. Total of 6 search categories - Entertainment, Holidays, News, Public Figures, Sport and Technology were identified for the purpose of this exploratory data set.
 Aim of this exploratory analysis was to identify trends for below questions:
